@@ -1,0 +1,356 @@
+{
+    "intelCpu": [
+        {
+            "name": "Intel Core i9-10900K",
+            "score": "100",
+            "cpu": "Comet Lake",
+            "ct": "10/20",
+            "bb": "3.7/5.3",
+            "power": "125W",
+            "price": "$499.98",
+            "id": "0"
+        },
+        {
+            "name": "Intel Core i9-9900KS",
+            "score": "99.58%",
+            "cpu": "Coffee Lake-R",
+            "ct": "8/16",
+            "bb": "4.0 / 5.0 GHz",
+            "power": "127W",
+            "price": "$1,699.99",
+            "id": "1"
+        },
+        {
+            "name": "Intel Core i9-10980XE",
+            "score": "98.51%",
+            "cpu": "Cascade Lake-X",
+            "ct": "18/36",
+            "bb": "3.0 / 4.8 GHz",
+            "power": "165W",
+            "price": "$1,016.40",
+            "id": "2"
+        },
+        {
+            "name": "Intel Core i7-9700K",
+            "score": "96.77%",
+            "cpu": "Coffee Lake-R",
+            "ct": "8/8",
+            "bb": "3.6 / 4.9 GHz",
+            "power": "95W",
+            "price": "$396.96",
+            "id": "3"
+        },
+        {
+            "name": "Intel Xeon W-3175X",
+            "score": "96.41%",
+            "cpu": "Skylake",
+            "ct": "28/56",
+            "bb": "3.1 / 4.3 GHz",
+            "power": "225W",
+            "price": "No price information",
+            "id": "4"
+        },
+        {
+            "name": "Intel Core i9-9900K",
+            "score": "95.84%",
+            "cpu": "Coffee Lake-R",
+            "ct": "8/16",
+            "bb": "3.6 / 5.0 GHz",
+            "power": "95W",
+            "price": "$499.98",
+            "id": "5"
+        },
+        {
+            "name": "Intel Core i9-9900KF",
+            "score": "97.1",
+            "cpu": "Coffee Lake-R",
+            "ct": "8/16",
+            "bb": "3.6 / 5.0 GHz",
+            "power": "95W",
+            "price": "$573.42",
+            "id": "6"
+        },
+        {
+            "name": "Intel Core i9-9980XE",
+            "score": "94.36%",
+            "cpu": "Skylake",
+            "ct": "18/36",
+            "bb": "4.4 / 4.5 GHz",
+            "power": "165W",
+            "price": "$1,900",
+            "id": "7"
+        },
+        {
+            "name": "Intel Core i5-10600K",
+            "score": "93.76%",
+            "cpu": "Comet Lake",
+            "ct": "6/12",
+            "bb": "4.1 / 4.8 GHz",
+            "power": "125W",
+            "price": "$278.03",
+            "id": "8"
+        },
+        {
+            "name": "Intel Core i7-8700K",
+            "score": "~",
+            "cpu": "Coffee Lake",
+            "ct": "6/12",
+            "bb": "3.7 / 4.7 GHz",
+            "power": "95W",
+            "price": "$355",
+            "id": "9"
+        },
+        {
+            "name": "Intel Core i7-8700",
+            "score": "~",
+            "cpu": "Coffee Lake",
+            "ct": "6/12",
+            "bb": "3.2 / 4.6 GHz",
+            "power": "65W",
+            "price": "$299.98",
+            "id": "10"
+        },
+        {
+            "name": "Intel Core i9-7960X",
+            "score": "~",
+            "cpu": "Skylake",
+            "ct": "16 / 32",
+            "bb": "2.8 / 4.2 GHz",
+            "power": "165W",
+            "price": "$1,746",
+            "id": "11"
+        },
+        {
+            "name": "Intel Core i5-9600K",
+            "score": "90.33%",
+            "cpu": "Coffee Lake-R",
+            "ct": "6/6",
+            "bb": "3.7 / 4.6 GHz",
+            "power": "95W",
+            "price": "$193.99",
+            "id": "12"
+        },
+        {
+            "name": "Intel Core i5-8600K",
+            "score": "~",
+            "cpu": "Coffee Lake",
+            "ct": "6/6",
+            "bb": "3.6 / 4.3 GHz",
+            "power": "95W",
+            "price": "$230.99",
+            "id": "13"
+        },
+        {
+            "name": "Intel Core i9-7980XE",
+            "score": "~",
+            "cpu": "Skylake",
+            "ct": "18 / 36",
+            "bb": "2.6 / 4.2 GHz",
+            "power": "165W",
+            "price": "$1,559",
+            "id": "14"
+        },
+        {
+            "name": "Intel Core i9-7900X",
+            "score": "~",
+            "cpu": "Skylake",
+            "ct": "10/20",
+            "bb": "3.3 / 4.3 GHz",
+            "power": "140W",
+            "price": "$699",
+            "id": "15"
+        },
+        {
+            "name": "Intel Core i5-8600",
+            "score": "~",
+            "cpu": "Coffee Lake",
+            "ct": "6/6",
+            "bb": "3.1 / 4.3 GHz",
+            "power": "65W",
+            "price": "$233.50",
+            "id": "16"
+        },
+        {
+            "name": "Intel Core i7-7700K",
+            "score": "~",
+            "cpu": "Kaby Lake",
+            "ct": "4/8",
+            "bb": "4.2 / 4.5 GHz",
+            "power": "91W",
+            "price": "$492.98",
+            "id": "17"
+        },
+    ],
+    "nvidiaGpu": [
+        {
+            "name": "Nvidia Titan RTX",
+            "score": "100.0%",
+            "gpu": "TU102",
+            "bb": "1350/1770 MHz",
+            "memory": "24GB GDDR6",
+            "power": "280W",
+            "price": "$2,499.99",
+            "id": "0"
+        },
+        {
+            "name": "Nvidia GeForce RTX 2080 Ti",
+            "score": "96.8%",
+            "gpu": "TU102",
+            "bb": "1350/1635 MHz",
+            "memory": "11GB GDDR6",
+            "power": "260W",
+            "price": "$1,198",
+            "id": "1"
+        },
+        {
+            "name": "Nvidia GeForce RTX 2080 Super",
+            "score": "85.1%",
+            "gpu": "TU104",
+            "bb": "1650/1815 MHz",
+            "memory": "8GB GDDR6",
+            "power": "250W",
+            "price": "$719.99",
+            "id": "2"
+        },
+        {
+            "name": "Nvidia GeForce RTX 2080",
+            "score": "80.0%",
+            "gpu": "TU104",
+            "bb": "1515/1800 MHz",
+            "memory": "8GB GDDR6",
+            "power": "225W",
+            "price": "$709.99",
+            "id": "3"
+        },
+        {
+            "name": "Nvidia GeForce RTX 2070 Super",
+            "score": "75.8%",
+            "gpu": "TU104",
+            "bb": "1605/1770 MHz",
+            "memory": "8GB GDDR6",
+            "power": "215W",
+            "price": "$585.98",
+            "id": "4"
+        },
+        {
+            "name": "Nvidia Titan X",
+            "score": "74.8%",
+            "gpu": "GP102",
+            "bb": "1405/1480 MHz",
+            "memory": "12GB GDDR5X",
+            "power": "250W",
+            "price": "No price information",
+            "id": "5"
+        },
+        {
+            "name": "Nvidia GeForce GTX 1080 Ti",
+            "score": "74.2%",
+            "gpu": "GP102",
+            "bb": "1480/1582 MHz",
+            "memory": "11GB GDDR5X",
+            "power": "250W",
+            "price": "$749.99",
+            "id": "6"
+        },
+        {
+            "name": "Nvidia GeForce RTX 2070",
+            "score": "67.8%",
+            "gpu": "TU106",
+            "bb": "1410/1710 MHz",
+            "memory": "8GB GDDR6",
+            "power": "185W",
+            "price": "$613",
+            "id": "7"
+        },
+        {
+            "name": "Nvidia GeForce RTX 2060 Super",
+            "score": "64.4%",
+            "gpu": "TU106",
+            "bb": "1470/1650 MHz",
+            "memory": "8GB GDDR6",
+            "power": "175W",
+            "price": "No price information",
+            "id": "8"
+        },
+        {
+            "name": "Nvidia GeForce GTX 1080",
+            "score": "61.3%",
+            "gpu": "GP104",
+            "bb": "1607/1733 MHz",
+            "memory": "8GB GDDR5X",
+            "power": "180W",
+            "price": "$599",
+            "id": "9"
+        },
+        {
+            "name": "Nvidia GeForce GTX 1080",
+            "score": "58.1%",
+            "gpu": "GP104",
+            "bb": "1607/1733 MHz",
+            "memory": "8GB GDDR5X",
+            "power": "180W",
+            "price": "$599",
+            "id": "10"
+        },
+        {
+            "name": "Nvidia GeForce RTX 2060",
+            "score": "57.2%",
+            "gpu": "TU106",
+            "bb": "1365/1680 MHz",
+            "memory": "6GB GDDR6",
+            "power": "160W",
+            "price": "$349.99",
+            "id": "11"
+        },
+        {
+            "name": "Nvidia GeForce GTX 1070 Ti",
+            "score": "53.8%",
+            "gpu": "GP104",
+            "bb": "1607/1683 MHz",
+            "memory": "8GB GDDR5",
+            "power": "180W",
+            "price": "$460",
+            "id": "12"
+        },
+        {
+            "name": "Nvidia GeForce GTX 1660 Ti",
+            "score": "48.6%",
+            "gpu": "TU116",
+            "bb": "1365/1680 MHz",
+            "memory": "6GB GDDR6",
+            "power": "120W",
+            "price": "$293.99",
+            "id": "13"
+        },
+        {
+            "name": "Nvidia GeForce GTX 1660 Super",
+            "score": "48.3%",
+            "gpu": "TU116",
+            "bb": "1530/1785 MHz",
+            "memory": "6GB GDDR6",
+            "power": "125W",
+            "price": "$217.98",
+            "id": "14"
+        },
+        {
+            "name": "Nvidia GeForce GTX 1070",
+            "score": "47.2%",
+            "gpu": "GP104",
+            "bb": "1506/1683 MHz",
+            "memory": "8GB GDDR5",
+            "power": "150W",
+            "price": "$592.99",
+            "id": "15"
+        },
+        {
+            "name": "Nvidia GeForce GTX 1660",
+            "score": "42.2%",
+            "gpu": "TU116",
+            "bb": "1530/1785 MHz",
+            "memory": "6GB GDDR5",
+            "power": "120W",
+            "price": "$229.99",
+            "id": "17"
+        }
+    ]
+}
